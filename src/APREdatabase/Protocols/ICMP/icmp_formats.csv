@@ -1,0 +1,6 @@
+6434954298477033282,"[8, 8, 16, 16, 16, 64, 384]","['UINT8', 'UINT8', 'UINT16', 'UINT16', 'UINT16', 'ABSOLUTE_TIME', 'UNKNOWN']","['Type', 'Code', 'Checksum', 'Identifier_(BE)', 'Sequence_number_(BE)', 'Timestamp_from_icmp_data', 'UNKNOWN']"
+4931671906505227042,"[8, 8, 16, 16, 16, 256]","['UINT8', 'UINT8', 'UINT16', 'UINT16', 'UINT16', 'UNKNOWN']","['Type', 'Code', 'Checksum', 'Identifier_(BE)', 'Sequence_number_(BE)', 'UNKNOWN']"
+3176157989068983332,"[8, 8, 16, 16, 16]","['UINT8', 'UINT8', 'UINT16', 'UINT16', 'UINT16']","['Type', 'Code', 'Checksum', 'Identifier_(BE)', 'Sequence_number_(BE)']"
+888682319059531827,"[8, 8, 16, 32, 608]","['UINT8', 'UINT8', 'UINT16', 'IPv4', 'UNKNOWN']","['Type', 'Code', 'Checksum', 'Gateway_address', 'UNKNOWN']"
+1199802291636768975,"[8, 8, 16, 32, 160, 8, 8, 16, 16, 16, 256]","['UINT8', 'UINT8', 'UINT16', 'IPv4', 'UNKNOWN', 'UINT8', 'UINT8', 'UINT16', 'UINT16', 'UINT16', 'UNKNOWN']","['Type', 'Code', 'Checksum', 'Gateway_address', 'UNKNOWN', 'Type', 'Code', 'Checksum', 'Identifier_(BE)', 'Sequence_number_(BE)', 'UNKNOWN']"
+8035440586323653892,"[8, 8, 16, 32, 520]","['UINT8', 'UINT8', 'UINT16', 'IPv4', 'UNKNOWN']","['Type', 'Code', 'Checksum', 'Gateway_address', 'UNKNOWN']"

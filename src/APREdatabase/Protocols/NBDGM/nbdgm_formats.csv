@@ -1,0 +1,1 @@
+1198467758331034264,"[8, 8, 16, 32, 16, 16, 16, 272, 272]","['UINT8', 'UINT8', 'UINT16', 'IPv4', 'UINT16', 'UINT16', 'UINT16', 'STRING', 'STRING']","['Message_Type', 'Flags', 'Datagram_ID', 'Source_IP', 'Source_Port', 'Datagram_length', 'Packet_offset', 'Source_name', 'Destination_name']"

@@ -1,0 +1,1 @@
+2197826823269089447,"[8, 8, 16, 16, 16, 8, 8, 16, 32, 32]","['UINT8', 'UINT8', 'UINT16', 'UINT16', 'UINT16', 'UINT8', 'UINT8', 'UINT16', 'IPv4', 'IPv4']","['Version', 'Differentiated_Services_Field', 'Total_Length', 'Identification', 'Flags', 'Time_to_live', 'Protocol', 'Header_checksum', 'Source', 'Destination']"
