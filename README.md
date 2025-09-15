@@ -1,6 +1,31 @@
 # APRE Benchmark Database
 <!--- jupyter nbconvert --execute --to markdown README.ipynb* --->
 
+This work has been published in the proceedings the 2024 9th International Conference on Communication, Image and Signal Processing ([CCISP](https://ieeexplore.ieee.org/abstract/document/10765535))
+<details>
+  <summary>BibTeX</summary>
+
+```bibtex
+@inproceedings{rohl_packet_2024,
+	address = {Gold Coast, Australia},
+	title = {Packet {Field} {Tree}: a {Hybrid} {Approach} for {Automated} {Protocol} {Reverse}-{Engineering}},
+	copyright = {https://doi.org/10.15223/policy-029},
+	isbn = {979-8-3503-5665-6},
+	shorttitle = {Packet {Field} {Tree}},
+	url = {https://ieeexplore.ieee.org/document/10765535/},
+	doi = {10.1109/CCISP63826.2024.10765535},
+	language = {en},
+	urldate = {2025-05-01},
+	booktitle = {2024 9th {International} {Conference} on {Communication}, {Image} and {Signal} {Processing} ({CCISP})},
+	publisher = {IEEE},
+	author = {Rohl, Alexander and Roughan, Matthew and White, Martin and Chambers, Alexander},
+	month = nov,
+	year = {2024},
+	pages = {160--169},
+}
+```
+</details> 
+
 ## Getting Started
 
 ```
